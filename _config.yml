@@ -19,14 +19,13 @@ theme: # leave it empty
 author: Hustu
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: HorseHunter9
 
 plugins:
   - jekyll-target-blank
 
 target-blank:
-    rel: follow
-    # nofollow
+    rel: nofollow
 
 header_page_refs: ['about', 'contact']
 # ['now', 'about', 'contact']
