@@ -25,7 +25,8 @@ plugins:
   - jekyll-target-blank
 
 target-blank:
-    rel: nofollow
+    rel: follow
+    # nofollow
 
 header_page_refs: ['about', 'contact']
 # ['now', 'about', 'contact']
